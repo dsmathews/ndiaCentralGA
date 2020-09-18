@@ -1,2 +1,2 @@
-# nidaChapterMGA
-repository for new middle Georgia NIDA chapter web page
+# ndiaChapterMGA
+repository for new middle Georgia NDIA chapter web page
