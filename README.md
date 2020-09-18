@@ -1,4 +1,4 @@
-# ndiaChapterMGA
+# ndiaCentralGA
 This is a repository for files regarding the website design for the new Central Georgia NDIA chapter web page. 
 
 Technologies used:
